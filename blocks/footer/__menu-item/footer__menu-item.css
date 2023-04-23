@@ -1,0 +1,19 @@
+.footer__menu-item {
+  margin-right: 18px;
+}
+
+.footer__menu-item:last-child {
+  margin-right: 0;
+}
+
+@media (max-width: 425px) {
+  .footer__menu-item {
+    margin-right: 0;
+    margin-bottom: 32px;
+  }
+
+  .footer__menu-item:last-child {
+    margin-bottom: 48px;
+  }
+}
+
