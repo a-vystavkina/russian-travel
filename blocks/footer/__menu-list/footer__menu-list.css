@@ -6,7 +6,7 @@
   flex-direction: row;
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .footer__menu-list {
     flex-direction: column;
   }

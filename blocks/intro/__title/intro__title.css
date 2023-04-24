@@ -4,9 +4,10 @@
   line-height: 1.07;
   color: #ffffff;
   margin-bottom: 40px;
+  margin-top: 0;
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .intro__title {
     font-size: 32px;
     line-height: 1.1;
