@@ -9,7 +9,6 @@
 
 .header__lang-link:hover {
     opacity: .5;
-    text-decoration: underline;
 }
 
 @media (max-width: 767px) {

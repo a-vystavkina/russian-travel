@@ -1,12 +1,6 @@
 .intro__list-link {
-  text-decoration: none;
   font-weight: 700;
   font-size: 12px;
   line-height: 1.5;
   color: #ffffff;
-  transition: opacity 1s ease-in-out;
-}
-
-.intro__list-link:hover {
-  opacity: .5;
 }
