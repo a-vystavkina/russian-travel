@@ -3,7 +3,7 @@
   color: #ffffff;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.125;
+  line-height: 112%;
   margin: 0;
   transition: opacity 1s ease-in-out;
 }
@@ -15,6 +15,6 @@
 @media screen and (max-width: 767px) {
   .footer__menu-link {
     font-size: 24px;
-    line-height: 1;
+    line-height: 100%;
   }
 }
